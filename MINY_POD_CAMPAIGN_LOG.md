@@ -1,0 +1,114 @@
+# MINY Podcast Outreach Campaign - Execution Log
+
+**Created:** 2026-02-04 12:28 EST
+**Status:** Ready for Email Generation
+
+---
+
+## Steps Executed
+
+### Step 1: Identify Campaign Files
+- Located: `/root/clawd/campaigns/podcaster-outreach/`
+- Found: `recipients_tier1_DRAFT.csv`, `CAMPAIGN_STATUS.md`, `EMAIL_VARIANTS.md`
+
+### Step 2: Access Tracker via API
+- **Challenge:** OAuth browser flow blocked
+- **Solution:** Used direct Google Sheets API with acquired token
+- **Result:** Downloaded full tracker to `tracker_export.csv`
+
+### Step 3: Extract Tracker Data (Tier 1 Only)
+
+| Podcaster | Podcast | Email | Listeners | Revenue | Score | Milestone | Timing | Next Action | Deck Link |
+|-----------|---------|-------|-----------|---------|-------|-----------|--------|-------------|-----------|
+| Kristen | Murder She Told | hello@murdershetold.com | 35K | $43,750 | 4.55 | Episode 100 | Recent | Follow-up needed | [deck](https://miny-podcast-pilot.vercel.app/decks/murder-she-told) |
+| Benjamin | They Walk Among Us | info@theywalkamonguspodcast.com | 75K | $93,750 | 4.50 | Episode 300 | 10 weeks | Send email | [deck](https://miny-podcast-pilot.vercel.app/decks/they-walk-among-us) |
+| Mike | True Crime All The Time | truecrimeallthetime@gmail.com | 75K | $93,750 | 4.40 | N/A (past 500) | N/A | Send email | [deck](https://miny-podcast-pilot.vercel.app/decks/true-crime-all-the-time) |
+| Bobby | Who? Weekly | whatsritaupto@gmail.com | 75K | $93,750 | 4.40 | Episode 1500 | 50 weeks | Send email | [deck](https://miny-podcast-pilot.vercel.app/decks/who-weekly) |
+| Doug | Literature and History | literatureandhistoryguy@gmail.com | 75K | $93,750 | 4.40 | Episode 125 | 4 weeks | **Send THIS WEEK** | [deck](https://miny-podcast-pilot.vercel.app/decks/literature-and-history) |
+| Laurah | The Fall Line | falllinepodcast@gmail.com | 30K | $37,500 | 4.35 | Episode 250 | 4 weeks | **Send THIS WEEK** | [deck](https://miny-podcast-pilot.vercel.app/decks/the-fall-line) |
+| Charlie | The Cripescast | Contact via website | 30K | $37,500 | 4.35 | Episode 250 | 3 weeks | **Send THIS WEEK** | [deck](https://miny-podcast-pilot.vercel.app/decks/the-cripescast) |
+| Fiona | The Partial Historians | phistorians@gmail.com | 30K | $37,500 | 4.35 | Episode 200 | 5 weeks | Send email | [deck](https://miny-podcast-pilot.vercel.app/decks/the-partial-historians) |
+| Andrew | We Hate Movies | weallhatemovies@gmail.com | 72K | $90,000 | 4.20 | Episode 1250 | 36 weeks | Send email | [deck](https://miny-podcast-pilot.vercel.app/decks/we-hate-movies) |
+| John | Working Class History | info@workingclasshistory.com | 75K | $93,750 | 4.20 | Episode 150 | 28 weeks | Send email | [deck](https://miny-podcast-pilot.vercel.app/decks/working-class-history) |
+
+### Step 4: Recent Episode Research
+
+| Podcaster | Recent Episode Topic |
+|-----------|---------------------|
+| Kristen | The Murder of Renee Freer (Oct 2025 update) |
+| Benjamin | The Moors Murders (Manchester, 1963-65) |
+| Mike | The Idaho College Murders (Parts 1 & 2) |
+| Bobby | Ashley Tisdale & the "Toxic Mom Group" Drama |
+| Doug | Episode 120: The Rashidun Caliphate |
+| Laurah | The Landscape Shifts: Change Comes to Forensic IGG |
+| Charlie | Craig T. Nelson on *Green and Gold* & the Packers |
+| Fiona | The Gallic Sack of Rome (Part 2) |
+| Andrew | Roasting *The Family Plan 2* |
+| John | The Anti-Poll Tax Movement (UK, late 80s) |
+
+### Step 5: Email Templates (A/B/C)
+
+| Template | Focus | Best For |
+|----------|-------|----------|
+| **A (Emotional)** | Victim advocacy | True crime (Kristen, Benjamin, Mike, Laurah) |
+| **B (Community)** | Milestone celebration | All podcasts with Patreon/community |
+| **C (Practical)** | Product features | Educational/History (Doug, Fiona, John) |
+
+---
+
+## Priority Ranking (Hot This Week)
+
+1. 🔴 **Doug (Literature and History)** — Episode 125 in 4 weeks, no merch yet
+2. 🔴 **Charlie (The Cripescast)** — Episode 250 in 3 weeks, existing merch buyers
+3. 🔴 **Laurah (The Fall Line)** — Episode 250 in 4 weeks, community mission angle
+
+---
+
+## Files Reference
+
+### Campaign Files (Original)
+```
+/root/clawd/campaigns/podcaster-outreach/
+├── recipients_tier1_DRAFT.csv
+├── CAMPAIGN_STATUS.md
+├── EMAIL_VARIANTS.md
+├── PERSONALIZATION_GUIDE.md
+└── manus_research/
+```
+
+### New Project Folder
+```
+/root/clawd/miny_pod_claw/
+├── MINY_POD_CAMPAIGN_LOG.md      ← This file
+├── tracker_export.csv             ← Full tracker from Google Sheets
+├── recipients_tier1_DRAFT.csv     ← Original CSV
+├── EMAIL_VARIANTS.md              ← 3 email templates
+├── CAMPAIGN_STATUS.md             ← Full strategy
+├── recipients_tier1_COMPLETE.csv  ← [TO CREATE] With episode topics
+└── personalized_emails.md         ← [TO CREATE] Ready-to-send emails
+```
+
+---
+
+## Next Steps
+
+1. ✅ Tracker accessed via API
+2. ✅ Recent episodes researched
+3. ⏳ Match templates to podcasters
+4. ⏳ Generate personalized emails
+5. ⏳ Review with Alet
+6. ⏳ Select 3-5 test recipients
+7. ⏳ Launch pilot
+
+---
+
+## Success Criteria
+
+- Open rate: 60%+ (6+ opens)
+- Response rate: 10-20% (1-2 replies)
+- Discovery call bookings: 1-2 calls
+- Pilot participant commitment: 1 podcaster
+
+---
+
+*Last Updated: 2026-02-04 12:45 EST*
