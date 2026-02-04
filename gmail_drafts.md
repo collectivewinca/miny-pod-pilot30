@@ -255,3 +255,155 @@ alet@velab.org
 ---
 
 *All emails ready. Send via Proton (alet@velab.org) for best deliverability.*
+
+---
+
+## TIER 2 - Already Sent (2026-02-04)
+
+### 11. Stay Hot: A Sports Podcast
+**To:** StayHotPodcast@gmail.com
+**Subject:** Way Too Early 2026 NFL Draft Prospects
+
+Hi Matt, Blaiden, Theo,
+
+Just caught your Way Too Early 2026 NFL Draft Prospects episode—solid analysis as always. You guys have a great handle on the sports landscape.
+
+I'm reaching out from MINY, where we help podcasters create NFC-enabled collectible cards for milestone episodes. With Episode 750 on the horizon, this could be a unique way to engage your 73K listeners and YouTube community.
+
+The cards serve as physical keepsakes fans can display or tap to unlock exclusive content. It's zero inventory risk for you and a tangible way to deepen community connection.
+
+I've put together a deck for Stay Hot here:
+https://miny-podcast-pilot.vercel.app/decks/stay-hot
+
+Learn more about MINY:
+https://minyvinyl.com
+
+Best,
+Alet Viegas
+CEO & Founder
+alet@velab.org
+
+---
+
+### 12. Real Life Real Crime
+**To:** TIPS@REALLIFEREALCRIME.COM
+**Subject:** True Crime Time For: Family Disputes, Shootings & Tragic Crimes
+
+Hi Woody, Jim, Cyndi,
+
+Your recent episode on Family Disputes, Shootings & Tragic Crimes shows the raw, authentic approach that makes Real Life Real Crime stand out. Serious work.
+
+I'm with MINY, and we create NFC-enabled collectible cards that let fans own a piece of the cases that matter most. For a show with 1,100+ episodes and a dedicated audience, these cards could serve as meaningful keepsakes tied to your most impactful storytelling.
+
+It's a zero-risk way to offer something tangible to your community while supporting the podcast's mission.
+
+Here's a quick look at what we're building:
+https://miny-podcast-pilot.vercel.app/decks/real-life-real-crime
+
+Learn more about MINY:
+https://minyvinyl.com
+
+Best,
+Alet Viegas
+CEO & Founder
+alet@velab.org
+
+---
+
+### 13. The Sloppy Boys
+**To:** thesloppyboyspodcast@gmail.com
+**Subject:** Ski School (1991) - Comedy Gold
+
+Hi Mike, Tim, Jefferson,
+
+Loved the Ski School (1991) Blowout episode—classic comedy gold. You guys have such a distinct, absurd sensibility that keeps listeners coming back.
+
+I'm reaching out from MINY, where we help podcasters celebrate milestones with NFC collectible cards. With Episode 350 approaching, this could be a fun, tangible way to give your 24K listeners something to hold onto.
+
+These cards work as physical keepsakes or unlock exclusive content when tapped. It's zero inventory risk and a unique merch option for a comedy show.
+
+Here's a look at what we're building:
+https://miny-podcast-pilot.vercel.app/decks/the-sloppy-boys
+
+Learn more about MINY:
+https://minyvinyl.com
+
+Best,
+Alet Viegas
+CEO & Founder
+alet@velab.org
+
+---
+
+### 14. Ancient History Fangirl
+**To:** ancienthistoryfangirl@gmail.com
+**Subject:** Teotihuacan: Eat the Rich
+
+Hi Jenny, Genn,
+
+The Teotihuacan: Eat the Rich episode was a great listen—your ability to make ancient history feel urgent and relevant is impressive.
+
+I'm with MINY, and we create NFC-enabled collectible cards that turn podcast episodes into physical artifacts. For a history podcast with 30K listeners, this could be a powerful way to let fans build a physical library of your episodes.
+
+With Episode 350 approaching, a commemorative card could celebrate this milestone while giving your community something tangible to collect.
+
+Here's a mockup for Ancient History Fangirl:
+https://miny-podcast-pilot.vercel.app/decks/ancient-history-fangirl
+
+Learn more about MINY:
+https://minyvinyl.com
+
+Best,
+Alet Viegas
+CEO & Founder
+alet@velab.org
+
+---
+
+### 15. Bad Friends
+**To:** Contact via website
+**Subject:** Bobby's Purse / Fat Skinny Eyes
+
+Hi Bobby, Andrew,
+
+Your recent episode Bobby's Purse / Fat Skinny Eyes had me laughing out loud. You two have such a great, natural chemistry that makes Bad Friends so entertaining.
+
+I'm reaching out from MINY, where we help podcasters create NFC collectible cards. With Episode 350 coming up, this could be a fun way to give your 85K listeners something tangible from the show.
+
+These cards serve as physical keepsakes or unlock bonus content when tapped. It's zero inventory risk and a unique merch option.
+
+Here's a look at what we're building:
+https://miny-podcast-pilot.vercel.app/decks/bad-friends
+
+Learn more about MINY:
+https://minyvinyl.com
+
+Best,
+Alet Viegas
+CEO & Founder
+alet@velab.org
+
+---
+
+### 16. Crime Salad
+**To:** crimesaladpodcast@gmail.com
+**Subject:** The Disappearance of Mekayla Bali
+
+Hi Amanda, Taylor,
+
+Your coverage of the Mekayla Bali case demonstrates the compassionate, investigative approach that makes Crime Salad stand out. Important work.
+
+I'm reaching out from MINY, where we create NFC-enabled collectible cards for podcasters. These cards can serve as meaningful keepsakes tied to the cases you investigate—respectful, tangible artifacts for your 30K listeners.
+
+It's a zero-risk way to offer something physical to your true crime community while honoring the stories you tell.
+
+Here's a quick look at what we're building:
+https://miny-podcast-pilot.vercel.app/decks/crime-salad
+
+Learn more about MINY:
+https://minyvinyl.com
+
+Best,
+Alet Viegas
+CEO & Founder
+alet@velab.org

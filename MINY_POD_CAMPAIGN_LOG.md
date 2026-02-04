@@ -121,6 +121,36 @@
 
 ---
 
+## Tier 2 Research Complete (2026-02-04)
+
+| Podcaster | Recent Episode |
+|-----------|----------------|
+| Stay Hot | Way Too Early 2026 NFL Draft Prospects |
+| Real Life True Crime | Family Disputes, Shootings & Tragic Crimes |
+| The Sloppy Boys | Ski School (1991) - Comedy Blowout |
+| Ancient History Fangirl | Teotihuacan: Eat the Rich |
+| Bad Friends | Bobby's Purse / Fat Skinny Eyes |
+| Crime Salad | Disappearance of Mekayla Bali |
+
+**Status:** Tier 2 Complete
+
+---
+
+## Tier 2 Emails Sent (2026-02-04)
+
+| # | Podcaster | Podcast | Status |
+|---|-----------|---------|--------|
+| 1 | Matt, Blaiden, Theo | Stay Hot: A Sports Podcast | ✅ Sent |
+| 2 | Woody, Jim, Cyndi | Real Life Real Crime | ✅ Sent |
+| 3 | Mike, Tim, Jefferson | The Sloppy Boys | ✅ Sent |
+| 4 | Jenny, Genn | Ancient History Fangirl | ✅ Sent |
+| 5 | Bobby, Andrew | Bad Friends | ⚠️ Website form |
+| 6 | Amanda, Taylor | Crime Salad | ✅ Sent |
+
+**Total Sent:** 5 emails | **Website Form:** 1 (Bad Friends)
+
+---
+
 ## Success Criteria
 
 - Open rate: 60%+ (6+ opens)
