@@ -412,6 +412,23 @@ li::before {
     h1 { font-size: 3rem; }
     h2 { font-size: 2rem; }
 }
+/* Mobile */
+@media (max-width: 768px) {
+    .grid-2 { grid-template-columns: 1fr; gap: 2rem; }
+    h1 { font-size: 3rem; }
+    h2 { font-size: 2rem; }
+    
+    /* Disable slide effect on mobile */
+    .slides-container {
+        scroll-behavior: auto;
+        scroll-snap-type: none;
+    }
+    
+    .slide {
+        scroll-snap-align: none;
+    }
+}
+
 </style>
 </head>
 <body>

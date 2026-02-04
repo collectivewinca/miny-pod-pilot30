@@ -214,12 +214,7 @@ li::before {
 @keyframes pan-stars { from { background-position: 0% 0%; } to { background-position: 100% 100%; } }
 @keyframes breathe { from { opacity: 0.5; transform: translate(-50%, -50%) scale(1); } to { opacity: 0.8; transform: translate(-50%, -50%) scale(1.2); } }
 
-/* Mobile */
-@media (max-width: 768px) {    /* Disable slide effect on mobile */
-    .slides-container {
-        scroll-behavior: auto;
-        scroll-snap-type: none;
-    }
+
     
     .slide {
         scroll-snap-align: none;
@@ -299,6 +294,23 @@ li::before {
         font-weight: 600;
         color: #1a1a2e;
     }
+/* Mobile */
+@media (max-width: 768px) {
+    .grid-2 { grid-template-columns: 1fr; gap: 2rem; }
+    h1 { font-size: 3rem; }
+    h2 { font-size: 2rem; }
+    
+    /* Disable slide effect on mobile */
+    .slides-container {
+        scroll-behavior: auto;
+        scroll-snap-type: none;
+    }
+    
+    .slide {
+        scroll-snap-align: none;
+    }
+}
+
     
 </style>
 </head>
