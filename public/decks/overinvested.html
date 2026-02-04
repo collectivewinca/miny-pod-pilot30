@@ -214,18 +214,6 @@ li::before {
 @keyframes pan-stars { from { background-position: 0% 0%; } to { background-position: 100% 100%; } }
 @keyframes breathe { from { opacity: 0.5; transform: translate(-50%, -50%) scale(1); } to { opacity: 0.8; transform: translate(-50%, -50%) scale(1.2); } }
 
-
-    
-    .slide {
-        scroll-snap-align: none;
-    }
-    
-
-    .grid-2 { grid-template-columns: 1fr; gap: 2rem; }
-    h1 { font-size: 3rem; }
-    h2 { font-size: 2rem; }
-}
-    
 /* Enhanced Link Cards */
     .cta-links {
         margin-top: 2.5rem;
@@ -308,6 +296,45 @@ li::before {
     
     .slide {
         scroll-snap-align: none;
+    }
+    
+    /* Fix for revenue section on mobile */
+    .revenue-section .grid-2 {
+        gap: 1.5rem;
+    }
+    
+    .revenue-section .stat-box {
+        padding: 1.5rem;
+        margin-bottom: 1rem;
+    }
+    
+    .revenue-section h1.accent-text {
+        font-size: clamp(2.5rem, 8vw, 3.5rem) !important;
+        line-height: 1.2;
+    }
+    
+    .revenue-section .revenue-share-box {
+        padding: 1.5rem !important;
+        margin-top: 1rem;
+    }
+    
+    .revenue-section p {
+        font-size: 1rem !important;
+    }
+}
+
+/* Desktop fixes for revenue section */
+@media (min-width: 769px) and (max-width: 1200px) {
+    .revenue-section .grid-2 {
+        gap: 2rem;
+    }
+    
+    .revenue-section h1.accent-text {
+        font-size: clamp(3rem, 5vw, 4rem) !important;
+    }
+    
+    .revenue-section .revenue-share-box {
+        padding: 2rem !important;
     }
 }
 
@@ -419,7 +446,7 @@ li::before {
         <!-- SLIDE 10: NEXT STEPS -->
         <section class="slide" style="background: white; color: #000000;">
            
-            <div class="slide-content" style="text-align: center; padding-top: 8rem;">
+            <div class="slide-content" style="text-align: center; padding-top: 2rem;">
                 <h2 class="reveal">LET'S BUILD THIS TOGETHER</h2>
                 <p class="reveal delay-1" style="color: #333333;">15-Minute Discovery Call to finalize your custom design.</p>
                 <a href="https://calendar.app.google/Gn1nvviDSaCcokcQ9" class="btn reveal delay-2">Schedule Your Session</a>
