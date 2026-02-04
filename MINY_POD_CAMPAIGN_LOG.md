@@ -94,11 +94,30 @@
 
 1. ✅ Tracker accessed via API
 2. ✅ Recent episodes researched
-3. ⏳ Match templates to podcasters
-4. ⏳ Generate personalized emails
-5. ⏳ Review with Alet
-6. ⏳ Select 3-5 test recipients
-7. ⏳ Launch pilot
+3. ✅ Templates matched to podcasters
+4. ✅ Personalized emails generated
+5. ✅ Review completed
+6. ✅ All 10 emails sent via Proton
+7. ✅ Tracker updated (2026-02-04)
+
+---
+
+## Emails Sent (2026-02-04)
+
+| # | Podcaster | Podcast | Status |
+|---|-----------|---------|--------|
+| 1 | Kristen | Murder She Told | ✅ Sent |
+| 2 | Benjamin | They Walk Among Us | ✅ Sent |
+| 3 | Mike | True Crime All The Time | ✅ Sent |
+| 4 | Bobby | Who? Weekly | ✅ Sent |
+| 5 | Doug | Literature and History | ✅ Sent |
+| 6 | Laurah | The Fall Line | ✅ Sent |
+| 7 | Charlie | The Cripescast | ⚠️ Website form |
+| 8 | Fiona | The Partial Historians | ✅ Sent |
+| 9 | Andrew | We Hate Movies | ✅ Sent |
+| 10 | John | Working Class History | ✅ Sent |
+
+**Total Sent:** 9 emails | **Website Form:** 1 (Charlie)
 
 ---
 
