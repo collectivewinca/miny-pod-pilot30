@@ -177,7 +177,17 @@
 }
 
 /* Responsive adjustments */
-@media (max-width: 768px) {
+@media (max-width: 768px) {    /* Disable slide effect on mobile */
+    .slides-container {
+        scroll-behavior: auto;
+        scroll-snap-type: none;
+    }
+    
+    .slide {
+        scroll-snap-align: none;
+    }
+    
+
     .velab-logo {
         max-width: 160px;
         top: 1.5rem;
