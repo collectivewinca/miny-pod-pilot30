@@ -1,0 +1,145 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/decks/ancient-history-fangirl",
+      "destination": "/decks/ancient-history-fangirl.html"
+    },
+    {
+      "source": "/decks/bad-friends",
+      "destination": "/decks/bad-friends.html"
+    },
+    {
+      "source": "/decks/bootstrapped-web",
+      "destination": "/decks/bootstrapped-web.html"
+    },
+    {
+      "source": "/decks/crime-salad",
+      "destination": "/decks/crime-salad.html"
+    },
+    {
+      "source": "/decks/indie-hackers",
+      "destination": "/decks/indie-hackers.html"
+    },
+    {
+      "source": "/decks/occult-symbolism",
+      "destination": "/decks/occult-symbolism.html"
+    },
+    {
+      "source": "/decks/overinvested",
+      "destination": "/decks/overinvested.html"
+    },
+    {
+      "source": "/decks/popcorn-culture",
+      "destination": "/decks/popcorn-culture.html"
+    },
+    {
+      "source": "/decks/pop-culture-parenting",
+      "destination": "/decks/pop-culture-parenting.html"
+    },
+    {
+      "source": "/decks/real-life-real-crime",
+      "destination": "/decks/real-life-real-crime.html"
+    },
+    {
+      "source": "/decks/revive-stronger",
+      "destination": "/decks/revive-stronger.html"
+    },
+    {
+      "source": "/decks/rumble-strip",
+      "destination": "/decks/rumble-strip.html"
+    },
+    {
+      "source": "/decks/startups-for-the-rest-of-us",
+      "destination": "/decks/startups-for-the-rest-of-us.html"
+    },
+    {
+      "source": "/decks/stay-hot",
+      "destination": "/decks/stay-hot.html"
+    },
+    {
+      "source": "/decks/stronger-by-science",
+      "destination": "/decks/stronger-by-science.html"
+    },
+    {
+      "source": "/decks/the-bootstrapped-founder",
+      "destination": "/decks/the-bootstrapped-founder.html"
+    },
+    {
+      "source": "/decks/the-comedy-button",
+      "destination": "/decks/the-comedy-button.html"
+    },
+    {
+      "source": "/decks/the-saas-podcast",
+      "destination": "/decks/the-saas-podcast.html"
+    },
+    {
+      "source": "/decks/the-sloppy-boys",
+      "destination": "/decks/the-sloppy-boys.html"
+    },
+    {
+      "source": "/decks/the-subjective-truth",
+      "destination": "/decks/the-subjective-truth.html"
+    },
+    {
+      "source": "/decks/murder-she-told",
+      "destination": "/decks/murder-she-told.html"
+    },
+    {
+      "source": "/decks/they-walk-among-us",
+      "destination": "/decks/they-walk-among-us.html"
+    },
+    {
+      "source": "/decks/true-crime-all-the-time",
+      "destination": "/decks/true-crime-all-the-time.html"
+    },
+    {
+      "source": "/decks/who-weekly",
+      "destination": "/decks/who-weekly.html"
+    },
+    {
+      "source": "/decks/literature-and-history",
+      "destination": "/decks/literature-and-history.html"
+    },
+    {
+      "source": "/decks/the-fall-line",
+      "destination": "/decks/the-fall-line.html"
+    },
+    {
+      "source": "/decks/the-partial-historians",
+      "destination": "/decks/the-partial-historians.html"
+    },
+    {
+      "source": "/decks/we-hate-movies",
+      "destination": "/decks/we-hate-movies.html"
+    },
+    {
+      "source": "/decks/working-class-history",
+      "destination": "/decks/working-class-history.html"
+    },
+    {
+      "source": "/decks/the-cripescast",
+      "destination": "/decks/the-cripescast.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/decks/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600"
+        }
+      ]
+    },
+    {
+      "source": "/images/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000"
+        }
+      ]
+    }
+  ]
+}

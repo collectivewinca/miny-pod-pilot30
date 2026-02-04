@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Exclusive MINY partnership opportunity for Stay Hot podcast. Transform your 73.5K+ listeners into superfans with premium NFC-enabled collectible vinyl.">
+    <meta name="keywords" content="MINY, podcast collectibles, Stay Hot, sports podcast, NFC vinyl, podcast merchandise, VELAB, podcast monetization">
+    <meta name="author" content="MINY Vinyl | VELAB">
+    <meta name="robots" content="index, follow">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://minyvinyl.com/podcasts/stay-hot">
+    <meta property="og:title" content="Stay Hot × MINY - Exclusive Podcast Collectibles">
+    <meta property="og:description" content="Turn your listeners into superfans with premium NFC-enabled hexagon vinyl collectibles. $0 onboarding, 75% revenue share.">
+    <meta property="og:image" content="https://minyvinyl.com/assets/og/stay-hot-miny.jpg">
+    <meta property="og:site_name" content="MINY Vinyl">
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Stay Hot × MINY - Exclusive Podcast Collectibles">
+    <meta name="twitter:description" content="Turn your listeners into superfans with premium NFC-enabled hexagon vinyl collectibles.">
+    <meta name="twitter:image" content="https://minyvinyl.com/assets/og/stay-hot-miny.jpg">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="https://minyvinyl.com/favicon.png">
+    <link rel="apple-touch-icon" href="https://minyvinyl.com/apple-touch-icon.png">
+    
+    <!-- Canonical -->
+    <link rel="canonical" href="https://minyvinyl.com/podcasts/stay-hot">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>STAY HOT - MINY Pitch Deck</title>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+/* ===========================================
+   THEME: DEEP SPACE (MINY EDITION)
+   =========================================== */
+:root {
+    --bg-primary: #000000;
+    --text-primary: #ffffff;
+    --text-secondary: #a1a1aa;
+    --accent: #00ffcc; /* MINY Teal */
+    --accent-glow: rgba(0, 255, 204, 0.4);
+    --font-display: 'Space Grotesk', sans-serif;
+    --font-body: 'DM Sans', sans-serif;
+    --slide-padding: clamp(2rem, 5vw, 4rem);
+    --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    font-family: var(--font-body);
+    overflow-x: hidden;
+}
+
+/* Background Effects */
+.starfield {
+    position: fixed;
+    inset: 0;
+    background-image: 
+        radial-gradient(1px 1px at 10% 10%, white 0%, transparent 50%),
+        radial-gradient(2px 2px at 20% 40%, white 0%, transparent 50%),
+        radial-gradient(1px 1px at 80% 80%, white 0%, transparent 50%);
+    background-size: 50% 50%;
+    opacity: 0.3;
+    z-index: -2;
+    animation: pan-stars 100s linear infinite;
+}
+
+.orb {
+    position: fixed;
+    width: 60vw;
+    height: 60vw;
+    background: radial-gradient(circle, rgba(0, 255, 204, 0.1) 0%, transparent 70%);
+    filter: blur(60px);
+    z-index: -1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    animation: breathe 8s ease-in-out infinite alternate;
+}
+
+/* Slide Layout */
+.slides-container {
+    scroll-snap-type: y mandatory;
+    height: 100vh;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+
+.slide {
+    height: 100vh;
+    width: 100%;
+    padding: var(--slide-padding);
+    scroll-snap-align: start;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+
+.slide-content {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+/* Typography & Elements */
+h1, h2, h3 {
+    font-family: var(--font-display);
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+}
+
+h1 { font-size: clamp(3rem, 8vw, 6rem); margin-bottom: 1rem; }
+h2 { font-size: clamp(2.5rem, 5vw, 4rem); margin-bottom: 1.5rem; color: var(--accent); }
+h3 { font-size: 1.5rem; color: var(--text-secondary); margin-bottom: 1rem; }
+
+p {
+    font-size: clamp(1.1rem, 2vw, 1.5rem);
+    line-height: 1.6;
+    color: var(--text-secondary);
+    max-width: 65ch;
+    margin-bottom: 1.5rem;
+}
+
+.accent-text { color: var(--accent); }
+.white-text { color: white; }
+
+ul { list-style: none; margin-top: 2rem; }
+li {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    padding-left: 2rem;
+    position: relative;
+}
+li::before {
+    content: "program";
+    font-family: 'Material Icons'; /* Fallback or shape */
+    content: "›"; /* Simple arrow */
+    position: absolute;
+    left: 0;
+    color: var(--accent);
+    font-weight: bold;
+}
+
+/* Specific Layouts */
+.grid-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    align-items: center;
+}
+
+.stat-box {
+    background: rgba(255,255,255,0.03);
+    border: 1px solid rgba(255,255,255,0.1);
+    padding: 2rem;
+    border-radius: 16px;
+    backdrop-filter: blur(10px);
+}
+.stat-box h3 { font-size: 3rem; color: white; margin-bottom: 0.5rem; }
+.stat-box p { font-size: 1rem; margin: 0; }
+
+.mockup-container {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mockup-img {
+    max-width: 100%;
+    max-height: 100%;
+    filter: drop-shadow(0 0 30px var(--accent-glow));
+    transform: rotate(-10deg);
+    transition: transform 0.5s ease;
+}
+.mockup-img:hover { transform: rotate(0deg) scale(1.05); }
+
+.btn {
+    display: inline-block;
+    padding: 1rem 3rem;
+    background: var(--accent);
+    color: black;
+    font-weight: 700;
+    text-decoration: none;
+    border-radius: 100px;
+    font-size: 1.2rem;
+    margin-top: 2rem;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+.btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0 30px var(--accent-glow);
+}
+
+/* Animations */
+.reveal {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 1s var(--ease-out-expo), transform 1s var(--ease-out-expo);
+}
+.slide.visible .reveal { opacity: 1; transform: translateY(0); }
+.delay-1 { transition-delay: 0.1s; }
+.delay-2 { transition-delay: 0.2s; }
+.delay-3 { transition-delay: 0.3s; }
+
+@keyframes pan-stars { from { background-position: 0% 0%; } to { background-position: 100% 100%; } }
+@keyframes breathe { from { opacity: 0.5; transform: translate(-50%, -50%) scale(1); } to { opacity: 0.8; transform: translate(-50%, -50%) scale(1.2); } }
+
+/* Mobile */
+@media (max-width: 768px) {
+    .grid-2 { grid-template-columns: 1fr; gap: 2rem; }
+    h1 { font-size: 3rem; }
+    h2 { font-size: 2rem; }
+}
+    
+/* Enhanced Link Cards */
+    .cta-links {
+        margin-top: 2.5rem;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 1rem;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .link-card {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+        background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+        border: 1px solid #dee2e6;
+        border-radius: 12px;
+        padding: 0.875rem 1.25rem;
+        text-decoration: none;
+        color: #1a1a2e;
+        font-weight: 500;
+        font-size: 0.95rem;
+        transition: all 0.3s ease;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    }
+    
+    .link-card:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 8px 25px rgba(0,0,0,0.12);
+        border-color: var(--accent);
+        background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+    }
+    
+    .link-icon {
+        width: 36px;
+        height: 36px;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+    }
+    
+    .link-icon.miny { background: linear-gradient(135deg, #00ffcc 0%, #00d4aa 100%); }
+    .link-icon.velab { background: linear-gradient(135deg, #1a1a2e 0%, #2d2d44 100%); }
+    .link-icon.intel { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+    
+    .link-card-text {
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+    }
+    
+    .link-card-label {
+        font-size: 0.7rem;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        color: #6c757d;
+        font-weight: 600;
+    }
+    
+    .link-card-title {
+        font-size: 0.95rem;
+        font-weight: 600;
+        color: #1a1a2e;
+    }
+    
+</style>
+</head>
+<body>
+    <div class="starfield"></div>
+    <div class="orb"></div>
+    <div class="slides-container">
+
+        <!-- SLIDE 1: COVER -->
+        <section class="slide">
+            <div class="slide-content" style="text-align: center;">
+                <h3 class="reveal">TURN YOUR LISTENERS INTO SUPERFANS</h3>
+                <h1 class="reveal delay-1">STAY HOT × MINY</h1>
+                <p class="reveal delay-2">The hottest takes in sports, delivered loud.</p>
+                <div class="reveal delay-3" style="margin-top: 3rem;">
+                    <span style="border:1px solid var(--accent); padding: 10px 20px; border-radius: 50px; color: var(--accent); text-transform: uppercase; font-size: 0.9rem;">
+                        OFFICIAL PILOT PROGRAM INVITATION
+                    </span>
+                </div>
+            </div>
+        </section>
+
+        <!-- SLIDE 2: MILESTONE -->
+        <section class="slide">
+            <div class="slide-content grid-2">
+                <div>
+                    <h2 class="reveal">CELEBRATING EPISODE 750</h2>
+                    <p class="reveal delay-1 white-text" style="font-size: 1.5rem;">&quot;A monumental run in high-engagement sports commentary. A partnership opportunity.&quot;</p>
+                </div>
+                <div class="reveal delay-2">
+                    <div class="stat-box" style="margin-bottom: 1rem;">
+                        <h3>73.5K Monthly Listeners</h3>
+                        <p>Monthly Listeners</p>
+                    </div>
+                    <div class="stat-box" style="margin-bottom: 1rem; border-color: var(--accent);">
+                        <h3 class="accent-text">Viral 46K+ YouTube Community</h3>
+                        <p>Superfans</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SLIDE 3: OPPORTUNITY -->
+        <section class="slide">
+            <div class="slide-content">
+                <h2 class="reveal">THE SEASON ENDS. THE HOT TAKES ARE PERMANENT.</h2>
+                <p class="reveal delay-1 white-text" style="font-size: 2rem; max-width: 40ch;">
+                    "&quot;Games come and go in the feed. your boldest calls deserve a physical anchor.&quot;"
+                </p>
+                <p class="reveal delay-2">&quot;95% of game analysis is forgotten in 10 days. Create a physical 'Hall of Fame' collectible.&quot;</p>
+            </div>
+        </section>
+
+        <!-- SLIDE 4: WHAT IS MINY -->
+        <section class="slide">
+            <div class="slide-content grid-2">
+                <div>
+                    <h2 class="reveal">THE 2-INCH VINYL FOR SUPERFANS</h2>
+                    <div class="reveal delay-1">
+                        <ul>
+                            <li><strong>01.</strong> Premium NFC-enabled Hexagon Vinyl</li>
+                            <li><strong>02.</strong> Physical Collectible + Digital Key</li>
+                            <li><strong>03.</strong> Tap to Unlock Exclusive &quot;Game Day&quot; Hot Takes</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="reveal delay-2 mockup-container">
+                    <img src="stay_hot_miny_tier3_compressed.jpg" alt="Stay Hot MINY Pod Mockup" class="mockup-img" style="max-width: 300px; max-height: 300px; border-radius: 50px; border: 2px solid var(--accent);">
+                </div>
+            </div>
+        </section>
+
+        <!-- SLIDE 5: CUSTOM -->
+        <section class="slide">
+            <div class="slide-content">
+                <h3 class="reveal">WE ALREADY DESIGNED THIS FOR YOU</h3>
+                <h2 class="reveal delay-1 white-text">&quot;A high-energy collectible item that serves as a physical key to your most viral predictions and post-game reactions.&quot;</h2>
+                <div class="stat-box reveal delay-2" style="background: rgba(0,255,204,0.05); margin-top: 2rem;">
+                    <p class="accent-text" style="margin-bottom:0.5rem;">EXCLUSIVE UNLOCK:</p>
+                    <p class="white-text" style="font-size: 1.5rem;">Unlocks private game-day predictions, 'Stay Hot Hall of Fame' archives of your boldest winning calls, and exclusive video hot takes.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- SLIDE 7: ECONOMICS -->
+        <section class="slide">
+            <div class="slide-content">
+                <h2 class="reveal">TURN 73,000 LISTENERS INTO REVENUE</h2>
+                <div class="grid-2" style="align-items: flex-start;">
+                    <div class="reveal delay-1">
+                         <div class="stat-box" style="margin-bottom:1rem;">Conservative (5%): $91,988</div>
+                         <div class="stat-box" style="margin-bottom:1rem;">Moderate (7%): $128,782</div>
+                         <div class="stat-box" style="border-color: white;">Optimistic (10%): $183,975</div>
+                    </div>
+                    <div class="reveal delay-2" style="text-align: center; border: 1px solid var(--accent); padding: 3rem; border-radius: 20px;">
+                        <p>YOUR ESTIMATED SHARE</p>
+                        <h1 class="accent-text" style="font-size: 5rem; margin: 0;">$68,991 (Estimated Pilot Share)</h1>
+                        <p>✓ $0 Onboarding  |  ✓ $0 Production  |  ✓ 75% Share</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SLIDE 10: NEXT STEPS -->
+        <section class="slide">
+            <div class="slide-content" style="text-align: center;">
+                <h2 class="reveal">LET'S BUILD THIS TOGETHER</h2>
+                <p class="reveal delay-1 white-text">15-Minute Discovery Call to finalize your custom design.</p>
+                <a href="https://calendar.app.google/Gn1nvviDSaCcokcQ9" target="_blank" class="btn reveal delay-2">Schedule Your Session</a>
+                <p class="reveal delay-3" style="margin-top: 2rem; font-size: 0.9rem;">TIER 1 FULL. TIER 2 SLOTS FILLING FAST.</p>
+
+                <div class="cta-links">
+                    <a href="https://minyvinyl.com" target="_blank" class="link-card reveal delay-3">
+                        <div class="link-icon miny">
+                            <svg viewBox="0 0 24 24" fill="white" width="20" height="20">
+                                <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+                            </svg>
+                        </div>
+                        <div class="link-card-text">
+                            <span class="link-card-label">Explore Products</span>
+                            <span class="link-card-title">minyvinyl.com</span>
+                        </div>
+                    </a>
+                    <a href="https://velab.org" target="_blank" class="link-card reveal delay-3">
+                        <div class="link-icon velab">
+                            <svg viewBox="0 0 24 24" fill="white" width="20" height="20">
+                                <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+                            </svg>
+                        </div>
+                        <div class="link-card-text">
+                            <span class="link-card-label">Our Lab</span>
+                            <span class="link-card-title">velab.org</span>
+                        </div>
+                    </a>
+                    <a href="https://go.minyvinyl.com/minypodintel" target="_blank" class="link-card reveal delay-4">
+                        <div class="link-icon intel">
+                            <svg viewBox="0 0 24 24" fill="white" width="20" height="20">
+                                <path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM9 17H7v-7h2v7zm4 0h-2V7h2v10zm4 0h-2v-4h2v4z"/>
+                            </svg>
+                        </div>
+                        <div class="link-card-text">
+                            <span class="link-card-label">Audience Insights</span>
+                            <span class="link-card-title">Podcast Intel</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="reveal delay-4" style="margin-top: 2rem;">
+                    <img src="https://velab.org/velab_logo.png" alt="VELAB Logo" style="height: 40px; background: white; padding: 8px 12px; border-radius: 8px;">
+                </div>
+            </div>
+        </section>
+
+    </div>
+    <script>
+document.addEventListener('DOMContentLoaded', () => {
+    const slides = document.querySelectorAll('.slide');
+    
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('visible');
+            }
+        });
+    }, { threshold: 0.3 });
+
+    slides.forEach(slide => observer.observe(slide));
+});
+</script>
+</body>
+</html>

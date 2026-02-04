@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MINY Podcast Pilot Program - All Decks</title>
+    <style>
+        body {
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #000000, #0a0a0a);
+            color: white;
+            margin: 0;
+            padding: 40px 20px;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 10px;
+            background: linear-gradient(90deg, #00ffcc, #00ccff);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+        .subtitle {
+            font-size: 1.2rem;
+            color: #a1a1aa;
+            margin-bottom: 30px;
+        }
+        .deck-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+        .deck-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            padding: 20px;
+            border: 1px solid rgba(0, 255, 204, 0.2);
+            transition: all 0.3s ease;
+            text-decoration: none;
+            color: inherit;
+            display: block;
+        }
+        .deck-card:hover {
+            transform: translateY(-5px);
+            background: rgba(0, 255, 204, 0.1);
+            border-color: #00ffcc;
+        }
+        .deck-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin: 0 0 10px 0;
+        }
+        .deck-slug {
+            font-size: 0.8rem;
+            color: #a1a1aa;
+            margin: 0;
+        }
+        footer {
+            text-align: center;
+            margin-top: 60px;
+            color: #a1a1aa;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>MINY Podcast Pilot Program</h1>
+            <p class="subtitle">All 30 Enhanced Podcast Decks</p>
+        </header>
+        
+        <div class="deck-grid">
+            <!-- Tier 1 Decks -->
+            <a href="/decks/murder-she-told" class="deck-card">
+                <h3 class="deck-title">Murder She Told</h3>
+                <p class="deck-slug">/decks/murder-she-told</p>
+            </a>
+            <a href="/decks/they-walk-among-us" class="deck-card">
+                <h3 class="deck-title">They Walk Among Us</h3>
+                <p class="deck-slug">/decks/they-walk-among-us</p>
+            </a>
+            <a href="/decks/true-crime-all-the-time" class="deck-card">
+                <h3 class="deck-title">True Crime All The Time</h3>
+                <p class="deck-slug">/decks/true-crime-all-the-time</p>
+            </a>
+            <a href="/decks/who-weekly" class="deck-card">
+                <h3 class="deck-title">Who? Weekly</h3>
+                <p class="deck-slug">/decks/who-weekly</p>
+            </a>
+            <a href="/decks/literature-and-history" class="deck-card">
+                <h3 class="deck-title">Literature and History</h3>
+                <p class="deck-slug">/decks/literature-and-history</p>
+            </a>
+            <a href="/decks/the-fall-line" class="deck-card">
+                <h3 class="deck-title">The Fall Line</h3>
+                <p class="deck-slug">/decks/the-fall-line</p>
+            </a>
+            <a href="/decks/the-partial-historians" class="deck-card">
+                <h3 class="deck-title">The Partial Historians</h3>
+                <p class="deck-slug">/decks/the-partial-historians</p>
+            </a>
+            <a href="/decks/we-hate-movies" class="deck-card">
+                <h3 class="deck-title">We Hate Movies</h3>
+                <p class="deck-slug">/decks/we-hate-movies</p>
+            </a>
+            <a href="/decks/working-class-history" class="deck-card">
+                <h3 class="deck-title">Working Class History</h3>
+                <p class="deck-slug">/decks/working-class-history</p>
+            </a>
+            <a href="/decks/the-cripescast" class="deck-card">
+                <h3 class="deck-title">The Cripescast</h3>
+                <p class="deck-slug">/decks/the-cripescast</p>
+            </a>
+            
+            <!-- Tier 2 & Tier 3 Decks -->
+            <a href="/decks/ancient-history-fangirl" class="deck-card">
+                <h3 class="deck-title">Ancient History Fangirl</h3>
+                <p class="deck-slug">/decks/ancient-history-fangirl</p>
+            </a>
+            <a href="/decks/bad-friends" class="deck-card">
+                <h3 class="deck-title">Bad Friends</h3>
+                <p class="deck-slug">/decks/bad-friends</p>
+            </a>
+            <a href="/decks/bootstrapped-web" class="deck-card">
+                <h3 class="deck-title">Bootstrapped Web</h3>
+                <p class="deck-slug">/decks/bootstrapped-web</p>
+            </a>
+            <a href="/decks/crime-salad" class="deck-card">
+                <h3 class="deck-title">Crime Salad</h3>
+                <p class="deck-slug">/decks/crime-salad</p>
+            </a>
+            <a href="/decks/indie-hackers" class="deck-card">
+                <h3 class="deck-title">Indie Hackers</h3>
+                <p class="deck-slug">/decks/indie-hackers</p>
+            </a>
+            <a href="/decks/occult-symbolism" class="deck-card">
+                <h3 class="deck-title">Occult Symbolism</h3>
+                <p class="deck-slug">/decks/occult-symbolism</p>
+            </a>
+            <a href="/decks/overinvested" class="deck-card">
+                <h3 class="deck-title">Overinvested</h3>
+                <p class="deck-slug">/decks/overinvested</p>
+            </a>
+            <a href="/decks/popcorn-culture" class="deck-card">
+                <h3 class="deck-title">Popcorn Culture</h3>
+                <p class="deck-slug">/decks/popcorn-culture</p>
+            </a>
+            <a href="/decks/pop-culture-parenting" class="deck-card">
+                <h3 class="deck-title">Pop Culture Parenting</h3>
+                <p class="deck-slug">/decks/pop-culture-parenting</p>
+            </a>
+            <a href="/decks/real-life-real-crime" class="deck-card">
+                <h3 class="deck-title">Real Life Real Crime</h3>
+                <p class="deck-slug">/decks/real-life-real-crime</p>
+            </a>
+            <a href="/decks/revive-stronger" class="deck-card">
+                <h3 class="deck-title">Revive Stronger</h3>
+                <p class="deck-slug">/decks/revive-stronger</p>
+            </a>
+            <a href="/decks/rumble-strip" class="deck-card">
+                <h3 class="deck-title">Rumble Strip</h3>
+                <p class="deck-slug">/decks/rumble-strip</p>
+            </a>
+            <a href="/decks/startups-for-the-rest-of-us" class="deck-card">
+                <h3 class="deck-title">Startups For The Rest Of Us</h3>
+                <p class="deck-slug">/decks/startups-for-the-rest-of-us</p>
+            </a>
+            <a href="/decks/stay-hot" class="deck-card">
+                <h3 class="deck-title">Stay Hot</h3>
+                <p class="deck-slug">/decks/stay-hot</p>
+            </a>
+            <a href="/decks/stronger-by-science" class="deck-card">
+                <h3 class="deck-title">Stronger By Science</h3>
+                <p class="deck-slug">/decks/stronger-by-science</p>
+            </a>
+            <a href="/decks/the-bootstrapped-founder" class="deck-card">
+                <h3 class="deck-title">The Bootstrapped Founder</h3>
+                <p class="deck-slug">/decks/the-bootstrapped-founder</p>
+            </a>
+            <a href="/decks/the-comedy-button" class="deck-card">
+                <h3 class="deck-title">The Comedy Button</h3>
+                <p class="deck-slug">/decks/the-comedy-button</p>
+            </a>
+            <a href="/decks/the-saas-podcast" class="deck-card">
+                <h3 class="deck-title">The SAAS Podcast</h3>
+                <p class="deck-slug">/decks/the-saas-podcast</p>
+            </a>
+            <a href="/decks/the-sloppy-boys" class="deck-card">
+                <h3 class="deck-title">The Sloppy Boys</h3>
+                <p class="deck-slug">/decks/the-sloppy-boys</p>
+            </a>
+            <a href="/decks/the-subjective-truth" class="deck-card">
+                <h3 class="deck-title">The Subjective Truth</h3>
+                <p class="deck-slug">/decks/the-subjective-truth</p>
+            </a>
+        </div>
+        
+        <footer>
+            <p>MINY Podcast Pilot Program • All Rights Reserved</p>
+        </footer>
+    </div>
+</body>
+</html>
