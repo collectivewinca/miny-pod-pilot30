@@ -407,3 +407,127 @@ Best,
 Alet Viegas
 CEO & Founder
 alet@velab.org
+
+---
+
+## TIER 3 - Already Sent (2026-02-04)
+
+### 17. Startups For the Rest of Us
+**To:** sponsors@startupsfortherestofus.com
+**Subject:** SaaS Predictions for 2026
+
+Hi Rob,
+
+Your SaaS Predictions for 2026 episode was spot-on—16M downloads speaks to the trust founders place in your guidance.
+
+I'm with MINY, and we create NFC-enabled collectible cards for podcast milestones. For a show with your reach, these cards could serve as unique keepsakes for your most engaged listeners—founders who want to own a piece of startup wisdom.
+
+With Episode 1000 on the horizon, this could be a powerful way to celebrate your community.
+
+Deck: https://miny-podcast-pilot.vercel.app/decks/startups-for-the-rest-of-us
+MINY: https://minyvinyl.com
+
+Best,
+Alet Viegas
+CEO & Founder
+alet@velab.org
+
+---
+
+### 18. The Stronger By Science Podcast
+**To:** podcast@strongerbyscience.com
+**Subject:** Warming-Up to Build Muscle
+
+Hi Greg, Eric, Pak, Milo,
+
+Your 'Warming-Up to Build Muscle' episode reflects the science-backed approach that's earned 1,200 Patreon supporters.
+
+I'm with MINY, and we create NFC-enabled collectible cards that could serve as tangible badges for your listeners. These cards could unlock exclusive content or mark fitness milestones for your science-focused community.
+
+Deck: https://miny-podcast-pilot.vercel.app/decks/stronger-by-science
+MINY: https://minyvinyl.com
+
+Best,
+Alet Viegas
+CEO & Founder
+alet@velab.org
+
+---
+
+### 19. Pop Culture Parenting
+**To:** popcultureparenting@gmail.com
+**Subject:** Depression Q&A - parenting, prevention, therapy
+
+Hi Dr. Billy, Nick,
+
+Your Depression Q&A episode addressed something real parents need—your 716 supporters clearly value this space.
+
+I'm with MINY, and we create NFC-enabled collectible cards. For a podcast at the intersection of parenting and culture, these cards could unlock family-friendly content or serve as keepsakes for milestones.
+
+Deck: https://miny-podcast-pilot.vercel.app/decks/pop-culture-parenting
+MINY: https://minyvinyl.com
+
+Best,
+Alet Viegas
+CEO & Founder
+alet@velab.org
+
+---
+
+### 20. The Bootstrapped Founder
+**To:** arvid@thebootstrappedfounder.com
+**Subject:** Follow Your Passion (But Not Like That)
+
+Hi Arvid,
+
+'Follow Your Passion (But Not Like That)' cut through the noise—your 20K newsletter readers and podcast listeners trust your no-fluff approach.
+
+I'm with MINY, and we create NFC-enabled collectible cards. For a community obsessed with ownership, these cards could serve as physical proof of their bootstrapping journey.
+
+Deck: https://miny-podcast-pilot.vercel.app/decks/the-bootstrapped-founder
+MINY: https://minyvinyl.com
+
+Best,
+Alet Viegas
+CEO & Founder
+alet@velab.org
+
+---
+
+### 21. Bootstrapped Web
+**To:** brian@casjam.com
+**Subject:** 2025 recap & 2026 outlook
+
+Hi Brian, Jordan,
+
+Your 2025 recap & 2026 outlook episode helped founders navigate another year—this is what makes the Ripple community so valuable.
+
+I'm with MINY, and we create NFC-enabled collectible cards. For a community focused on web-building, these cards could unlock exclusive content or serve as membership badges.
+
+Deck: https://miny-podcast-pilot.vercel.app/decks/bootstrapped-web
+MINY: https://minyvinyl.com
+
+Best,
+Alet Viegas
+CEO & Founder
+alet@velab.org
+
+---
+
+### 22. The SaaS Podcast
+**To:** omer@saasclub.io
+**Subject:** Product-Market Fit: TeamBridge's journey
+
+Hi Omer,
+
+TeamBridge's journey to 500K employees showcased the kind of practical insights that makes The SaaS Podcast essential for founders.
+
+I'm with MINY, and we create NFC-enabled collectible cards that could serve as VIP badges for your community—unlocking episode content or marking milestones.
+
+Deck: https://miny-podcast-pilot.vercel.app/decks/the-saas-podcast
+MINY: https://minyvinyl.com
+
+Best,
+Alet Viegas
+CEO & Founder
+alet@velab.org

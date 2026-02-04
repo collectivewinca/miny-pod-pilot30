@@ -132,7 +132,20 @@
 | Bad Friends | Bobby's Purse / Fat Skinny Eyes |
 | Crime Salad | Disappearance of Mekayla Bali |
 
-**Status:** Tier 2 Complete
+---
+
+## Tier 3 Emails Sent (2026-02-04)
+
+| # | Podcast | Host | Status |
+|---|---------|------|--------|
+| 17 | Startups For the Rest of Us | Rob Walling | ✅ Sent |
+| 18 | The Stronger By Science | Greg Nuckols | ✅ Sent |
+| 19 | Pop Culture Parenting | Dr. Billy, Nick | ✅ Sent |
+| 20 | The Bootstrapped Founder | Arvid Kahl | ✅ Sent |
+| 21 | Bootstrapped Web | Brian, Jordan | ✅ Sent |
+| 22 | The SaaS Podcast | Omer Khan | ✅ Sent |
+
+**Total Sent:** 6 emails
 
 ---
 
