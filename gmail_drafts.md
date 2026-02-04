@@ -37,7 +37,7 @@ Hi Benjamin,
 
 The recent episodes on the Moors Murders have been hauntingly well-produced. Your team's ability to handle such sensitive, high-profile cases with dignity sets the standard for the genre.
 
-I'm reaching out because with Episode 300 on the horizon (about 10 weeks out), you have a great opportunity to offer something special to your 75,000 listeners. MINY creates NFC-enabled collectible cards—think of them as "vinyl records for podcasts."
+I'm reaching out because with Episode 300 on the horizon (about 10 weeks out), you have a great opportunity to offer something special to your 75,000 listeners. MINY creates MINY—think of them as "vinyl records for podcasts."
 
 They are perfect for a show with your production value. Fans can tap the card with their phone to unlock exclusive content or simply display the artwork as a collectible.
 
@@ -62,7 +62,7 @@ Hi Mike,
 
 I was listening to the Idaho College Murders coverage recently—solid, detailed work as always. You guys have built an incredible archive over the years.
 
-I know you have a massive backlog (500+ episodes!) and a very dedicated Patreon base of nearly 2,000 supporters. At MINY, we create physical NFC cards that let superfans "own" their favorite episodes or milestones.
+I know you have a massive backlog (500+ episodes!) and a very dedicated Patreon base of nearly 2,000 supporters. At MINY, we create physical MINY that let superfans "own" their favorite episodes or milestones.
 
 It's a fantastic way to reward your Patreon community with something tangible they can actually hold, bridging the gap between digital listening and physical collecting.
 
@@ -87,7 +87,7 @@ Hi Bobby,
 
 The recent segment on the Ashley Tisdale "Toxic Mom Group" drama had me dying. You and Lindsey have created such a specific, hilarious language for your listeners.
 
-Speaking of which, your community is incredible—9,400+ on Patreon is no joke. I'm with MINY, and we create digital-physical collectibles (NFC cards) that are perfect for superfan communities like the Wholigans.
+Speaking of which, your community is incredible—9,400+ on Patreon is no joke. I'm with MINY, and we create digital-physical collectibles (MINY) that are perfect for superfan communities like the Wholigans.
 
 With Episode 1500 (!) coming up later this year, we could help you create a limited-edition collectible card. It's a fun, low-lift way to give your VIPs something exclusive to hold onto (literally).
 
@@ -112,7 +112,7 @@ Hi Doug,
 
 I was just listening to your deep dive on the Rashidun Caliphate (Episode 120)—the way you contextualize such massive historical shifts is always impressive.
 
-I'm reaching out because a library as dense and well-researched as yours deserves to be preserved physically. At MINY, we create NFC-enabled collectible cards that turn your episodes into physical artifacts listeners can collect and display. It's like a trading card for the digital age, but with your audio embedded directly inside.
+I'm reaching out because a library as dense and well-researched as yours deserves to be preserved physically. At MINY, we create MINY that turn your episodes into physical artifacts listeners can collect and display. It's like a trading card for the digital age, but with your audio embedded directly inside.
 
 With Episode 125 approaching in just a few weeks, we'd love to help you launch a limited edition "milestone card" for your 75,000+ listeners. We handle all the production and logistics, so you can focus on the research and writing.
 
@@ -137,7 +137,7 @@ Hi Laurah,
 
 I've been following your recent coverage on the shifts in forensic IGG. The way The Fall Line advocates for victims and keeps these cold cases in the light is truly essential work.
 
-I'm reaching out because we've built something at MINY designed to help mission-driven shows like yours create deeper connections. We produce beautiful, physical NFC cards that listeners can hold—a respectful way to honor the stories you tell and the victims you advocate for.
+I'm reaching out because we've built something at MINY designed to help mission-driven shows like yours create deeper connections. We produce beautiful, physical MINY that listeners can hold—a respectful way to honor the stories you tell and the victims you advocate for.
 
 With Episode 250 approaching, this could be a powerful way for your 30,000 listeners to support the show's mission physically. We handle everything, ensuring the tone and presentation are perfect.
 
@@ -162,7 +162,7 @@ Hi Charlie,
 
 Loved the recent chat with Craig T. Nelson—especially the bits about Green and Gold. You've built such a distinct, welcoming vibe with the show that really resonates.
 
-I'm writing because I see you're coming up on a huge milestone—Episode 250 is just a few weeks away. At MINY, we help creators celebrate moments like this by turning episodes into collectible NFC cards. It's a way for your merch-buying fans (and your 30k listeners) to actually "own" a piece of the show's history.
+I'm writing because I see you're coming up on a huge milestone—Episode 250 is just a few weeks away. At MINY, we help creators celebrate moments like this by turning episodes into collectible MINY. It's a way for your merch-buying fans (and your 30k listeners) to actually "own" a piece of the show's history.
 
 We'd love to help you launch a special Episode 250 commemorative card. It requires zero inventory risk on your end and gives your community a tangible keepsake to mark the occasion.
 
@@ -187,7 +187,7 @@ Hi Dr. Radford,
 
 I really enjoyed Part 2 of the Gallic Sack of Rome. The detail you both go into really brings the chaos of that era to life.
 
-I'm writing because your academic approach creates the kind of content that listeners want to keep. At MINY, we turn podcast episodes into physical, NFC-enabled cards. It allows your 30,000 listeners to build a physical library of your history lessons.
+I'm writing because your academic approach creates the kind of content that listeners want to keep. At MINY, we turn podcast episodes into physical, MINY. It allows your 30,000 listeners to build a physical library of your history lessons.
 
 With Episode 200 coming up in about 5 weeks, it would be the perfect time to release a commemorative card. We handle all the manufacturing and shipping, so you can stay focused on the history.
 
@@ -212,7 +212,7 @@ Hi Andrew,
 
 Just caught the roast of The Family Plan 2—classic. You guys have such a consistent hit rate with these reviews.
 
-I'm reaching out because I see you have over 7,100 Patreon supporters. That is a massive community. At MINY, we create NFC-enabled collectible cards that act as physical tokens for digital content.
+I'm reaching out because I see you have over 7,100 Patreon supporters. That is a massive community. At MINY, we create MINY that act as physical tokens for digital content.
 
 It's a perfect "value add" for your Patreon tiers or a standalone collectible for the fans who already buy your merch. It's weird, cool, and different—exactly the kind of thing that cuts through the noise.
 
@@ -237,7 +237,7 @@ Hi John,
 
 The recent episode on the Anti-Poll Tax movement was a great listen—vital context for understanding grassroots resistance.
 
-I'm contacting you because Working Class History isn't just a podcast; it's an archive. At MINY, we help mission-driven projects preserve their work through physical NFC cards. It allows your supporters to "own" a piece of this history.
+I'm contacting you because Working Class History isn't just a podcast; it's an archive. At MINY, we help mission-driven projects preserve their work through physical MINY. It allows your supporters to "own" a piece of this history.
 
 With Episode 150 approaching, we could help you launch a supporter card for your ~1,000 Patreon backers. It's a way to strengthen that community connection and offer a physical token of their support for the project.
 
@@ -268,7 +268,7 @@ Hi Matt, Blaiden, Theo,
 
 Just caught your Way Too Early 2026 NFL Draft Prospects episode—solid analysis as always. You guys have a great handle on the sports landscape.
 
-I'm reaching out from MINY, where we help podcasters create NFC-enabled collectible cards for milestone episodes. With Episode 750 on the horizon, this could be a unique way to engage your 73K listeners and YouTube community.
+I'm reaching out from MINY, where we help podcasters create MINY for milestone episodes. With Episode 750 on the horizon, this could be a unique way to engage your 73K listeners and YouTube community.
 
 The cards serve as physical keepsakes fans can display or tap to unlock exclusive content. It's zero inventory risk for you and a tangible way to deepen community connection.
 
@@ -293,7 +293,7 @@ Hi Woody, Jim, Cyndi,
 
 Your recent episode on Family Disputes, Shootings & Tragic Crimes shows the raw, authentic approach that makes Real Life Real Crime stand out. Serious work.
 
-I'm with MINY, and we create NFC-enabled collectible cards that let fans own a piece of the cases that matter most. For a show with 1,100+ episodes and a dedicated audience, these cards could serve as meaningful keepsakes tied to your most impactful storytelling.
+I'm with MINY, and we create MINY that let fans own a piece of the cases that matter most. For a show with 1,100+ episodes and a dedicated audience, these cards could serve as meaningful keepsakes tied to your most impactful storytelling.
 
 It's a zero-risk way to offer something tangible to your community while supporting the podcast's mission.
 
@@ -318,7 +318,7 @@ Hi Mike, Tim, Jefferson,
 
 Loved the Ski School (1991) Blowout episode—classic comedy gold. You guys have such a distinct, absurd sensibility that keeps listeners coming back.
 
-I'm reaching out from MINY, where we help podcasters celebrate milestones with NFC collectible cards. With Episode 350 approaching, this could be a fun, tangible way to give your 24K listeners something to hold onto.
+I'm reaching out from MINY, where we help podcasters celebrate milestones with MINY. With Episode 350 approaching, this could be a fun, tangible way to give your 24K listeners something to hold onto.
 
 These cards work as physical keepsakes or unlock exclusive content when tapped. It's zero inventory risk and a unique merch option for a comedy show.
 
@@ -343,7 +343,7 @@ Hi Jenny, Genn,
 
 The Teotihuacan: Eat the Rich episode was a great listen—your ability to make ancient history feel urgent and relevant is impressive.
 
-I'm with MINY, and we create NFC-enabled collectible cards that turn podcast episodes into physical artifacts. For a history podcast with 30K listeners, this could be a powerful way to let fans build a physical library of your episodes.
+I'm with MINY, and we create MINY that turn podcast episodes into physical artifacts. For a history podcast with 30K listeners, this could be a powerful way to let fans build a physical library of your episodes.
 
 With Episode 350 approaching, a commemorative card could celebrate this milestone while giving your community something tangible to collect.
 
@@ -368,7 +368,7 @@ Hi Bobby, Andrew,
 
 Your recent episode Bobby's Purse / Fat Skinny Eyes had me laughing out loud. You two have such a great, natural chemistry that makes Bad Friends so entertaining.
 
-I'm reaching out from MINY, where we help podcasters create NFC collectible cards. With Episode 350 coming up, this could be a fun way to give your 85K listeners something tangible from the show.
+I'm reaching out from MINY, where we help podcasters create MINY. With Episode 350 coming up, this could be a fun way to give your 85K listeners something tangible from the show.
 
 These cards serve as physical keepsakes or unlock bonus content when tapped. It's zero inventory risk and a unique merch option.
 
@@ -393,7 +393,7 @@ Hi Amanda, Taylor,
 
 Your coverage of the Mekayla Bali case demonstrates the compassionate, investigative approach that makes Crime Salad stand out. Important work.
 
-I'm reaching out from MINY, where we create NFC-enabled collectible cards for podcasters. These cards can serve as meaningful keepsakes tied to the cases you investigate—respectful, tangible artifacts for your 30K listeners.
+I'm reaching out from MINY, where we create MINY for podcasters. These cards can serve as meaningful keepsakes tied to the cases you investigate—respectful, tangible artifacts for your 30K listeners.
 
 It's a zero-risk way to offer something physical to your true crime community while honoring the stories you tell.
 
@@ -420,7 +420,7 @@ Hi Rob,
 
 Your SaaS Predictions for 2026 episode was spot-on—16M downloads speaks to the trust founders place in your guidance.
 
-I'm with MINY, and we create NFC-enabled collectible cards for podcast milestones. For a show with your reach, these cards could serve as unique keepsakes for your most engaged listeners—founders who want to own a piece of startup wisdom.
+I'm with MINY, and we create MINY for podcast milestones. For a show with your reach, these cards could serve as unique keepsakes for your most engaged listeners—founders who want to own a piece of startup wisdom.
 
 With Episode 1000 on the horizon, this could be a powerful way to celebrate your community.
 
@@ -442,7 +442,7 @@ Hi Greg, Eric, Pak, Milo,
 
 Your 'Warming-Up to Build Muscle' episode reflects the science-backed approach that's earned 1,200 Patreon supporters.
 
-I'm with MINY, and we create NFC-enabled collectible cards that could serve as tangible badges for your listeners. These cards could unlock exclusive content or mark fitness milestones for your science-focused community.
+I'm with MINY, and we create MINY that could serve as tangible badges for your listeners. These cards could unlock exclusive content or mark fitness milestones for your science-focused community.
 
 Deck: https://miny-podcast-pilot.vercel.app/decks/stronger-by-science
 MINY: https://minyvinyl.com
@@ -462,7 +462,7 @@ Hi Dr. Billy, Nick,
 
 Your Depression Q&A episode addressed something real parents need—your 716 supporters clearly value this space.
 
-I'm with MINY, and we create NFC-enabled collectible cards. For a podcast at the intersection of parenting and culture, these cards could unlock family-friendly content or serve as keepsakes for milestones.
+I'm with MINY, and we create MINY. For a podcast at the intersection of parenting and culture, these cards could unlock family-friendly content or serve as keepsakes for milestones.
 
 Deck: https://miny-podcast-pilot.vercel.app/decks/pop-culture-parenting
 MINY: https://minyvinyl.com
@@ -482,7 +482,7 @@ Hi Arvid,
 
 'Follow Your Passion (But Not Like That)' cut through the noise—your 20K newsletter readers and podcast listeners trust your no-fluff approach.
 
-I'm with MINY, and we create NFC-enabled collectible cards. For a community obsessed with ownership, these cards could serve as physical proof of their bootstrapping journey.
+I'm with MINY, and we create MINY. For a community obsessed with ownership, these cards could serve as physical proof of their bootstrapping journey.
 
 Deck: https://miny-podcast-pilot.vercel.app/decks/the-bootstrapped-founder
 MINY: https://minyvinyl.com
@@ -502,7 +502,7 @@ Hi Brian, Jordan,
 
 Your 2025 recap & 2026 outlook episode helped founders navigate another year—this is what makes the Ripple community so valuable.
 
-I'm with MINY, and we create NFC-enabled collectible cards. For a community focused on web-building, these cards could unlock exclusive content or serve as membership badges.
+I'm with MINY, and we create MINY. For a community focused on web-building, these cards could unlock exclusive content or serve as membership badges.
 
 Deck: https://miny-podcast-pilot.vercel.app/decks/bootstrapped-web
 MINY: https://minyvinyl.com
@@ -522,7 +522,7 @@ Hi Omer,
 
 TeamBridge's journey to 500K employees showcased the kind of practical insights that makes The SaaS Podcast essential for founders.
 
-I'm with MINY, and we create NFC-enabled collectible cards that could serve as VIP badges for your community—unlocking episode content or marking milestones.
+I'm with MINY, and we create MINY that could serve as VIP badges for your community—unlocking episode content or marking milestones.
 
 Deck: https://miny-podcast-pilot.vercel.app/decks/the-saas-podcast
 MINY: https://minyvinyl.com
